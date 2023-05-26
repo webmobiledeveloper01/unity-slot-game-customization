@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 197a84b840b934cb2befa81ff9d35c53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -236679725203640935
+    second: symbanim12_0
+  - first:
+      213: -2677633900583425212
+    second: symbanim12_1
+  - first:
+      213: 7525769994482181948
+    second: symbanim12_2
+  - first:
+      213: -440424579320229969
+    second: symbanim12_3
+  - first:
+      213: 626257867732867156
+    second: symbanim12_4
+  - first:
+      213: -1862532125762750927
+    second: symbanim12_5
+  - first:
+      213: -1120950148249625782
+    second: symbanim12_6
+  - first:
+      213: 8912705979536517703
+    second: symbanim12_7
+  - first:
+      213: -3050642043593045104
+    second: symbanim12_8
+  - first:
+      213: -2752951799249715969
+    second: symbanim12_9
+  - first:
+      213: -5022767368933981017
+    second: symbanim12_10
+  - first:
+      213: -1729087670224483093
+    second: symbanim12_11
+  - first:
+      213: 9173265184248823735
+    second: symbanim12_12
+  - first:
+      213: -461996555905382620
+    second: symbanim12_13
+  - first:
+      213: 1683146032525426077
+    second: symbanim12_14
+  - first:
+      213: -173847176195580584
+    second: symbanim12_15
+  - first:
+      213: -3591201369706402169
+    second: symbanim12_16
+  - first:
+      213: -2326756083036316207
+    second: symbanim12_17
+  - first:
+      213: 2078151032255162812
+    second: symbanim12_18
+  - first:
+      213: 5075347296280163639
+    second: symbanim12_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: symbanim12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe0e32d4f32426db2deca316108ff9
+      internalID: -236679725203640935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc77ff91f3d64441856e310c5c95418
+      internalID: -2677633900583425212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0c24a82f7874f54ace679132e10339
+      internalID: 7525769994482181948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fd1db50c03e4fa3b378644a91d2f3f
+      internalID: -440424579320229969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fa6533a8bfa4cda8b41a736a0975e4
+      internalID: 626257867732867156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18269f3fa994a4f54b024a1f77121207
+      internalID: -1862532125762750927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a881cd572bb466b9e4ddea894a481f
+      internalID: -1120950148249625782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8449cf64576184ab9866f2333c858772
+      internalID: 8912705979536517703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c364c3b5e9f3b408487debeafa308cc9
+      internalID: -3050642043593045104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0be834ccfd44baade6967a70271ea
+      internalID: -2752951799249715969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c983bf45db85b4f239dd950efff9dbf7
+      internalID: -5022767368933981017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_11
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbfb3ecf291e4d4c9a8f7dd4a64b28c
+      internalID: -1729087670224483093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_12
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fb955c2fb2c44a1b396f43138e59a9
+      internalID: 9173265184248823735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_13
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96902421c39494a56837a4ca1e6b82d1
+      internalID: -461996555905382620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_14
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc46459223424276979c83e09439eab
+      internalID: 1683146032525426077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_15
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d88461bcf7c45ada3af4be365119d3
+      internalID: -173847176195580584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_16
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e64a0e054f244ee92299ba422c0936
+      internalID: -3591201369706402169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_17
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191670b19e4c743adbc6eabe034ee234
+      internalID: -2326756083036316207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_18
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69cb5cf684d41c78363dcc9fbe0dcc
+      internalID: 2078151032255162812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim12_19
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db013054e7c644b03ab8dd05d2d7d7c8
+      internalID: 5075347296280163639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c86319d57c32474d97980043214a2bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      symbanim12_0: -236679725203640935
+      symbanim12_1: -2677633900583425212
+      symbanim12_10: -5022767368933981017
+      symbanim12_11: -1729087670224483093
+      symbanim12_12: 9173265184248823735
+      symbanim12_13: -461996555905382620
+      symbanim12_14: 1683146032525426077
+      symbanim12_15: -173847176195580584
+      symbanim12_16: -3591201369706402169
+      symbanim12_17: -2326756083036316207
+      symbanim12_18: 2078151032255162812
+      symbanim12_19: 5075347296280163639
+      symbanim12_2: 7525769994482181948
+      symbanim12_3: -440424579320229969
+      symbanim12_4: 626257867732867156
+      symbanim12_5: -1862532125762750927
+      symbanim12_6: -1120950148249625782
+      symbanim12_7: 8912705979536517703
+      symbanim12_8: -3050642043593045104
+      symbanim12_9: -2752951799249715969
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

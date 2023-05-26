@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: 5dfa19f1050e24fe89a1129f12206db2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -778407502334462569
+    second: symbanim15_0
+  - first:
+      213: 7381589596817798363
+    second: symbanim15_1
+  - first:
+      213: 4904691164954495557
+    second: symbanim15_2
+  - first:
+      213: -1488463399273404350
+    second: symbanim15_3
+  - first:
+      213: -7166052852852770072
+    second: symbanim15_4
+  - first:
+      213: -3875608930771201260
+    second: symbanim15_5
+  - first:
+      213: -4440635947659822202
+    second: symbanim15_6
+  - first:
+      213: 4742933941256683457
+    second: symbanim15_7
+  - first:
+      213: 8465814450904584285
+    second: symbanim15_8
+  - first:
+      213: 8973590379035816581
+    second: symbanim15_9
+  - first:
+      213: 6306773542040223547
+    second: symbanim15_10
+  - first:
+      213: -561318824282674329
+    second: symbanim15_11
+  - first:
+      213: 7993814595823593994
+    second: symbanim15_12
+  - first:
+      213: -8379577447782388601
+    second: symbanim15_13
+  - first:
+      213: 4181788979740025287
+    second: symbanim15_14
+  - first:
+      213: 995858802323453785
+    second: symbanim15_15
+  - first:
+      213: -5391491402817299483
+    second: symbanim15_16
+  - first:
+      213: -4368065695124493843
+    second: symbanim15_17
+  - first:
+      213: -1960003743398405068
+    second: symbanim15_18
+  - first:
+      213: -3466531235416458340
+    second: symbanim15_19
+  - first:
+      213: -4204421731525173660
+    second: symbanim15_20
+  - first:
+      213: 7329830533841744543
+    second: symbanim15_21
+  - first:
+      213: 572602553856714611
+    second: symbanim15_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: symbanim15_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc0c9405fac24d5fa1090b7e040ddca
+      internalID: -778407502334462569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6ec8e6be444af5a1e5569011b461e
+      internalID: 7381589596817798363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc59aad30e82c40c99b838f3a568b395
+      internalID: 4904691164954495557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c43c027ac0438094954673ebafc7a
+      internalID: -1488463399273404350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3763b0e7aac6248a1a15eb33907732f1
+      internalID: -7166052852852770072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f6d3ff148f484b9e36ea997ba1d2a
+      internalID: -3875608930771201260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e2d057fbdbb4692b87e049c0aaf39c
+      internalID: -4440635947659822202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d54bfc284445819968d9bff050912
+      internalID: 4742933941256683457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de83d6e9de7954e2f89389d18b5df11c
+      internalID: 8465814450904584285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_9
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78986ee0e16049cbb878f66545d1fe9
+      internalID: 8973590379035816581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b2fcd5c182546e1b8098dea444a78d
+      internalID: 6306773542040223547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_11
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579203eacf2ca48439000c01b44d54b1
+      internalID: -561318824282674329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_12
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709722459454b46e7997bb1278098aaa
+      internalID: 7993814595823593994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_13
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ffedc9eeb804dd993dc468499225ab
+      internalID: -8379577447782388601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_14
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096b1ff1e0cb54a928e888c84887f99c
+      internalID: 4181788979740025287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_15
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fdeb001001d42ef8b8e10a37c90c40
+      internalID: 995858802323453785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_16
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ec2f5b03e5d4ca49ee2b30df707dd1
+      internalID: -5391491402817299483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_17
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2d683f4feb6432480425e92c2d72b2
+      internalID: -4368065695124493843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_18
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c760c0f09bf4a4ac0b9019e58fb0b6fa
+      internalID: -1960003743398405068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_19
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5e4b73952ff4f85b56843c66acde76
+      internalID: -3466531235416458340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_20
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05541e20f560e484ebed42f1f0acf624
+      internalID: -4204421731525173660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_21
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71d915318a8d4ddcaa3aeb97dd17cfc
+      internalID: 7329830533841744543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: symbanim15_22
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 0
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c03de04fae04270b1564b27c362374
+      internalID: 572602553856714611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 77785042e7ff9459885c7676b4b48574
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      symbanim15_0: -778407502334462569
+      symbanim15_1: 7381589596817798363
+      symbanim15_10: 6306773542040223547
+      symbanim15_11: -561318824282674329
+      symbanim15_12: 7993814595823593994
+      symbanim15_13: -8379577447782388601
+      symbanim15_14: 4181788979740025287
+      symbanim15_15: 995858802323453785
+      symbanim15_16: -5391491402817299483
+      symbanim15_17: -4368065695124493843
+      symbanim15_18: -1960003743398405068
+      symbanim15_19: -3466531235416458340
+      symbanim15_2: 4904691164954495557
+      symbanim15_20: -4204421731525173660
+      symbanim15_21: 7329830533841744543
+      symbanim15_22: 572602553856714611
+      symbanim15_3: -1488463399273404350
+      symbanim15_4: -7166052852852770072
+      symbanim15_5: -3875608930771201260
+      symbanim15_6: -4440635947659822202
+      symbanim15_7: 4742933941256683457
+      symbanim15_8: 8465814450904584285
+      symbanim15_9: 8973590379035816581
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

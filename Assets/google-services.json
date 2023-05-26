@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "575638008364",
+    "firebase_url": "https://ultras-463af.firebaseio.com",
+    "project_id": "ultras-463af",
+    "storage_bucket": "ultras-463af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575638008364:android:09246663323a596f",
+        "android_client_info": {
+          "package_name": "com.IF.FireTest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575638008364-ijavudonouma9qe42v3chrm36nje46hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsuq3q-8dvH-c32AFgwl5Fu0bSbMXIkgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575638008364:android:1e51a9dc7c71f4a1",
+        "android_client_info": {
+          "package_name": "com.IF.FirebaseTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575638008364-qgl8nkegdcdql6tv623ls2nr4p8ulmob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.IF.FirebaseTest",
+            "certificate_hash": "d886850ff06f4303ac91609606578701f6bf018d"
+          }
+        },
+        {
+          "client_id": "575638008364-ijavudonouma9qe42v3chrm36nje46hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsuq3q-8dvH-c32AFgwl5Fu0bSbMXIkgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575638008364-ijavudonouma9qe42v3chrm36nje46hi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575638008364-7e5c958s4bfhj8smcmop5t3ni6amg686.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IF.TestFirebase"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
